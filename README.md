@@ -1,2 +1,1 @@
-# evening-practice
-practice before group project
+Practice before project Devmonkeys
