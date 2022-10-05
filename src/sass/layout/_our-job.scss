@@ -1,4 +1,17 @@
 .our-job {
-  background-color: rgb(47, 255, 127);
-  color: white;
+  background-color: whitesmoke;
+  color: black;
+  }
+.job {
+    padding: 20px 15px;
 }
+  .job-title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .job__menu {
+   display: flex;
+  }
+
